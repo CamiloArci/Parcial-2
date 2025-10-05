@@ -2,7 +2,7 @@
 
 *INTEGRANTES*
 
-**Santiago Andrés Araque**
-**Camilo Arciniegas Guerrero**
-**Sergio Alejandro Nieto**
-**Julián Mauricio Zafra**
+**Santiago Andrés Araque** \n
+**Camilo Arciniegas Guerrero** \n
+**Sergio Alejandro Nieto** \n 
+**Julián Mauricio Zafra** \n
